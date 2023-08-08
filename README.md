@@ -1,5 +1,5 @@
 # MyBookList
-Personal Book Collection
+I am currently a PhD student at Nanyang Technological University, focusing on Edge Intelligence solutions for Smart Wireless Sensor Network (WSSN). Here are some books I am reading for my research. (to be updated)
 
 # Mathematics
 
