@@ -6,6 +6,8 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 # Mathematics
 
 # Science
+## Computer Science
+- [Finished] [Foundations of Computer Science](https://github.com/acmbpdc/openlib.cs)
 
 # Technology
 ## Programming
