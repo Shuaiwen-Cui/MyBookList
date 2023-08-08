@@ -24,7 +24,12 @@ Personal Book Collection
 ## Edge Computing and Intelligence
 - [Finished] [AI at the Edge](https://learning.oreilly.com/library/view/ai-at-the/9781098120191/)
 
+- [Finished] [Deep Learning on Microcontrollers: Learn how to develop embedded AI applications using TinyML](https://www.google.com.sg/books/edition/Deep_Learning_on_Microcontrollers/eL65EAAAQBAJ?hl=en&gbpv=0)
+
 # Cognition
+## Digital Signal Process
+- [2/13] [Understanding Digital Signal Processing](https://learning.oreilly.com/library/view/understanding-digital-signal/9780137028450/)
+
 ## Control Theory
 - [Finished] [The Fundamentals of Control Theory](https://engineeringmedia.com/books)
 
