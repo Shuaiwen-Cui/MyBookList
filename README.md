@@ -6,6 +6,8 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 # Science
 
 # Technology
+## Programming
+- [2/8] [The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)](https://kremlin.cc/k&r.pdf)
 
 # Engineering
 ## Electronics
