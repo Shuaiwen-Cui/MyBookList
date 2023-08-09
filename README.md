@@ -24,6 +24,8 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 - [18/28] [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](https://learning.oreilly.com/library/view/electronics-for-beginners/9781484259795/)
 
 # AI
+## CV
+- [1/14][Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)
 
 # Perception
 ## IOT
