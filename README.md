@@ -9,6 +9,8 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 ## Computer Science
 - [Finished] [Foundations of Computer Science](https://github.com/acmbpdc/openlib.cs)
 
+- [1/14] [Computer System: A Programmer's Perspective](https://github.com/iWangMu/Book-CSAPP/blob/master/_Attachments/Computer_Systems_A_Programmers_Perspective(3rd).pdf)
+
 # Technology
 ## Programming
 - [2/8] [The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)](https://kremlin.cc/k&r.pdf)
