@@ -13,6 +13,12 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 ## Programming
 - [2/8] [The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)](https://kremlin.cc/k&r.pdf)
 
+## Operating System
+### FreeRTOS
+- [to read] [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://www.freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf)
+
+- [to read] [FreeRTOS V10.0.0 Reference Manual](https://www.freertos.org/fr-content-src/uploads/2018/07/FreeRTOS_Reference_Manual_V10.0.0.pdf)
+
 # Engineering
 ## Electronics
 - [18/28] [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](https://learning.oreilly.com/library/view/electronics-for-beginners/9781484259795/)
