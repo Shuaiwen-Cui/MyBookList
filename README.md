@@ -42,6 +42,8 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 - [Finished] [Deep Learning on Microcontrollers: Learn how to develop embedded AI applications using TinyML](https://www.google.com.sg/books/edition/Deep_Learning_on_Microcontrollers/eL65EAAAQBAJ?hl=en&gbpv=0)
 
+- [2/7] [Embedded Deep Learning](https://link.springer.com/book/10.1007/978-3-319-99223-5)
+
 # Cognition
 ## Digital Signal Process
 - [2/13] [Understanding Digital Signal Processing](https://learning.oreilly.com/library/view/understanding-digital-signal/9780137028450/)
