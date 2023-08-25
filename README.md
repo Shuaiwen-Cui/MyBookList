@@ -4,6 +4,11 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 [m/n] stands for reading progress; each book name is attached with a link.
 
 # Mathematics
+## Analysis
+
+## Algebra
+- [to read] [Free] [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+## Geometry
 
 # Science
 ## Computer Science
@@ -13,24 +18,25 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 # Technology
 ## Programming
-- [2/8] [The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)](https://kremlin.cc/k&r.pdf)
+- [2/8] [Free] [The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)](https://kremlin.cc/k&r.pdf)
 
 ## Operating System
 ### FreeRTOS
-- [to read] [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://www.freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf)
+- [to read] [Free] [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://www.freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf)
 
-- [to read] [FreeRTOS V10.0.0 Reference Manual](https://www.freertos.org/fr-content-src/uploads/2018/07/FreeRTOS_Reference_Manual_V10.0.0.pdf)
+- [to read] [Free] [FreeRTOS V10.0.0 Reference Manual](https://www.freertos.org/fr-content-src/uploads/2018/07/FreeRTOS_Reference_Manual_V10.0.0.pdf)
 
 # Engineering
 ## Electronics
 - [22/28] [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](https://learning.oreilly.com/library/view/electronics-for-beginners/9781484259795/)
 ## Single Board Computer
 - [1/18] [Arduino Cookbook, 3rd Edition](https://learning.oreilly.com/api/v1/continue/9781491903513/)
-- [to read] [Raspberry Pi Cookbook, 4th Edition](https://learning.oreilly.com/api/v1/continue/9781098130916/)
+- [1/19] [Raspberry Pi Cookbook, 4th Edition](https://learning.oreilly.com/api/v1/continue/9781098130916/)
 
 # AI
-## CV
+## Computer Vision
 - [1/14] [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)
+## Time Series Data
 
 # Perception
 ## IOT
@@ -58,3 +64,5 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 - [2/9] [Digital Twin - A Dynamic System And Computation Perspective](https://www.taylorfrancis.com/books/mono/10.1201/9781003268048/digital-twin-ranjan-ganguli-sondipon-adhikari-souvik-chakraborty-mrittika-ganguli)
 
 # Action
+## Robtics
+
