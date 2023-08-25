@@ -23,7 +23,7 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 # Engineering
 ## Electronics
-- [20/28] [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](https://learning.oreilly.com/library/view/electronics-for-beginners/9781484259795/)
+- [22/28] [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](https://learning.oreilly.com/library/view/electronics-for-beginners/9781484259795/)
 
 # AI
 ## CV
