@@ -29,9 +29,10 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 # Engineering
 ## Electronics
 - [22/28] [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](https://learning.oreilly.com/library/view/electronics-for-beginners/9781484259795/)
-## Single Board Computer
+## Embedded System and Single Board Computer
 - [1/18] [Arduino Cookbook, 3rd Edition](https://learning.oreilly.com/api/v1/continue/9781491903513/)
-- [1/19] [Raspberry Pi Cookbook, 4th Edition](https://learning.oreilly.com/api/v1/continue/9781098130916/)
+- [2/19] [Raspberry Pi Cookbook, 4th Edition](https://learning.oreilly.com/api/v1/continue/9781098130916/)
+- [to read] [Programming Embedded Systems, 2nd Edition](https://learning.oreilly.com/api/v1/continue/0596009836/)
 
 # AI
 ## Computer Vision
