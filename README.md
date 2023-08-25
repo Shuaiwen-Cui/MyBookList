@@ -1,9 +1,8 @@
 # MyBookList
-I am currently a PhD student at Nanyang Technological University, focusing on Edge Intelligence solutions for Smart Wireless Sensor Network (WSSN). Here are some books I am reading for my research. (to be updated) -- Shuaiwen CUi
+I am currently a PhD student at Nanyang Technological University, focusing on Edge Intelligence solutions for Smart Wireless Sensor Network (WSSN). Here are some books I am reading for my research and personal skillsets development. (to be updated) -- Shuaiwen CUi
 
 [m/n] stands for reading progress; each book name is attached with a link, some are free for access with a free mark.
 
-for my beloved ziheng
 
 # Mathematics
 ## Analysis
