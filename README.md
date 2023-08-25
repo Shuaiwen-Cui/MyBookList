@@ -42,6 +42,9 @@ for my beloved ziheng
 ## Time Series Data
 
 # Perception
+## Sensors
+- [1/18] [Sensor Technologies for Civil Infrastructures, Volume 1](https://learning.oreilly.com/api/v1/continue/9780857094322/) 
+
 ## IOT
 - [Finished] [IoT and Edge Computing for Architects - Second Edition](https://learning.oreilly.com/library/view/iot-and-edge/9781839214806/) 
 
