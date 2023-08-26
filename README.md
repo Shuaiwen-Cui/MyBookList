@@ -42,7 +42,7 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 # Perception
 ## Sensors
-- [1/18] [Sensor Technologies for Civil Infrastructures, Volume 1](https://learning.oreilly.com/api/v1/continue/9780857094322/) 
+- [2/18] [Sensor Technologies for Civil Infrastructures, Volume 1](https://learning.oreilly.com/api/v1/continue/9780857094322/) 
 - [1/21] [Sensor Technologies for Civil Infrastructures, Volume 2](https://learning.oreilly.com/library/view/-/9781782422426/)
 
 ## IOT
