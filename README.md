@@ -27,6 +27,16 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 - [to read] [Free] [FreeRTOS V10.0.0 Reference Manual](https://www.freertos.org/fr-content-src/uploads/2018/07/FreeRTOS_Reference_Manual_V10.0.0.pdf)
 
+- [Finished] [Free] [FreeRTOS 从入门到精通](https://zhuanlan.zhihu.com/p/443458699) (Zhihu | in Chinese)
+
+## Integrated Development Environment (IDE)
+### Keil
+- [Finished] [Free] [Keil 系列教程](https://zhuanlan.zhihu.com/p/57700360) (Zhihu | in Chinese)
+### Visual Studio (VS)
+
+### VSCode
+
+
 # Engineering
 ## Electronics
 - [22/28] [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](https://learning.oreilly.com/library/view/electronics-for-beginners/9781484259795/)
