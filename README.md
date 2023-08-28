@@ -41,7 +41,7 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 ## Electronics
 - [22/28] [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](https://learning.oreilly.com/library/view/electronics-for-beginners/9781484259795/)
 ## Embedded System and Single Board Computer
-- [1/18] [Arduino Cookbook, 3rd Edition](https://learning.oreilly.com/api/v1/continue/9781491903513/)
+- [2/18] [Arduino Cookbook, 3rd Edition](https://learning.oreilly.com/api/v1/continue/9781491903513/)
 - [2/19] [Raspberry Pi Cookbook, 4th Edition](https://learning.oreilly.com/api/v1/continue/9781098130916/)
 - [to read] [Programming Embedded Systems, 2nd Edition](https://learning.oreilly.com/api/v1/continue/0596009836/)
 
@@ -53,7 +53,7 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 # Perception
 ## Sensors
 - [3/18] [Sensor Technologies for Civil Infrastructures, Volume 1](https://learning.oreilly.com/api/v1/continue/9780857094322/) 
-- [1/21] [Sensor Technologies for Civil Infrastructures, Volume 2](https://learning.oreilly.com/library/view/-/9781782422426/)
+- [2/21] [Sensor Technologies for Civil Infrastructures, Volume 2](https://learning.oreilly.com/library/view/-/9781782422426/)
 
 ## IOT
 - [Finished] [IoT and Edge Computing for Architects - Second Edition](https://learning.oreilly.com/library/view/iot-and-edge/9781839214806/) 
