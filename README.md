@@ -29,6 +29,11 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 - [Finished] [Free] [FreeRTOS 从入门到精通](https://zhuanlan.zhihu.com/p/443458699) (Zhihu | in Chinese)
 
+### Linux
+- [Finished] [Free] [Linux 就该这么学 第2版](https://www.linuxprobe.com/basic-learning-00.html)
+
+- [to read] [Free] [鸟哥的 Linux 私房菜](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
+
 ## Integrated Development Environment (IDE)
 ### Keil
 - [Finished] [Free] [Keil 系列教程](https://zhuanlan.zhihu.com/p/57700360) (Zhihu | in Chinese)
