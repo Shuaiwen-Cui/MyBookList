@@ -36,7 +36,7 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 ## Integrated Development Environment (IDE)
 ### Keil
-- [Finished] [Free] [Keil 系列教程](https://zhuanlan.zhihu.com/p/57700360) (Zhihu | in Chinese)
+- [to read] [Free] [Keil 系列教程](https://zhuanlan.zhihu.com/p/57700360) (Zhihu | in Chinese)
 ### Visual Studio (VS)
 
 ### VSCode
