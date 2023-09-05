@@ -33,6 +33,8 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 # Technology
 ## Programming
+### General
+- [-] [Free] [黑马程序员教程](https://book.itheima.net/)
 ### C/C++
 - [2/8] [Free] [The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)](https://kremlin.cc/k&r.pdf)
 
