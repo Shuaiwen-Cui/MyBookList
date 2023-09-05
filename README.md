@@ -5,11 +5,25 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 
 # Mathematics
+## General
+- [to read] [Free] [Beauty of Data Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization) - in Chinese, Visual ML Series 2
+
+- [to read] [Free] [Elements of Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) - in Chinese, Visual ML Series 3
+
 ## Analysis
+### Calculus
+- [to read] [Calculus, 8th Edition](https://dokumen.pub/qdownload/calculus-8thnbsped-128574) - classical, strongly recommended
+
 
 ## Algebra
 - [to read] [Free] [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+
+- [to read] [Free] [Power of Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - in Chinese, Visual ML Series 4
+
 ## Geometry
+
+## Posibility and Statistics
+- [to read] [Free] [Essentials of Posibility and Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)- in Chinese, Visual ML Series 5
 
 # Science
 ## Computer Science
@@ -19,7 +33,11 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 # Technology
 ## Programming
+### C/C++
 - [2/8] [Free] [The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)](https://kremlin.cc/k&r.pdf)
+
+### Python
+- [to read] [free] [Python For Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners) - in Chinese, Visual ML Series 1
 
 ## Operating System
 ### FreeRTOS
@@ -50,7 +68,12 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 - [4/19] [Raspberry Pi Cookbook, 4th Edition](https://learning.oreilly.com/api/v1/continue/9781098130916/)
 - [to read] [Programming Embedded Systems, 2nd Edition](https://learning.oreilly.com/api/v1/continue/0596009836/)
 
-# AI
+# Data Science and AI
+## General
+- [to read] [Free] [First Course in Data Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science) - in Chinese, Visual ML Series 6
+
+- [to read] [Free] [Visualization for Machine Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning) - in Chinese, Visual ML Series 7
+
 ## Computer Vision
 - [1/14] [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)
 ## Time Series Data
