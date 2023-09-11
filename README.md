@@ -72,7 +72,7 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 # Data Science and AI
 ## General
-- [4/18] [Free] [First Course in Data Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science) - in Chinese, Visual ML Series 6
+- [7/18] [Free] [First Course in Data Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science) - in Chinese, Visual ML Series 6
 
 - [0/17] [Free] [Visualization for Machine Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning) - in Chinese, Visual ML Series 7
 
