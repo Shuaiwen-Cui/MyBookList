@@ -76,6 +76,13 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 - [Finished] [Free] [Visualization for Machine Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning) - in Chinese, Visual ML Series 7
 
+- [to read] [Free] [Hello Algorithm](https://www.hello-algo.com/) - in Chinese
+
+- [to read] [Free] [Dive Into Deep Learning (En)](https://d2l.ai/) | [Dive Into Deep Learning (CN)](https://zh.d2l.ai/)
+
+
+
+
 ## Computer Vision
 - [1/14] [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)
 ## Time Series Data
