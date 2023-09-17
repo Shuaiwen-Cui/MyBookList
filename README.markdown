@@ -80,9 +80,6 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 - [to read] [Free] [Dive Into Deep Learning (En)](https://d2l.ai/) | [Dive Into Deep Learning (CN)](https://zh.d2l.ai/)
 
-
-
-
 ## Computer Vision
 - [1/14] [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)
 ## Time Series Data
