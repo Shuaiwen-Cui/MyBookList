@@ -32,6 +32,9 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 - [1/14] [Computer System: A Programmer's Perspective](https://github.com/iWangMu/Book-CSAPP/blob/master/_Attachments/Computer_Systems_A_Programmers_Perspective(3rd).pdf)
 
 # Technology
+## Developer Everything
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
 ## Programming
 ### General
 - [-] [Free] [黑马程序员教程](https://book.itheima.net/)
@@ -39,7 +42,7 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 - [2/8] [Free] [The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)](https://kremlin.cc/k&r.pdf)
 
 ### Python
-- [6/36] [free] [Python For Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners) - in Chinese, Visual ML Series 1
+- [7/36] [free] [Python For Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners) - in Chinese, Visual ML Series 1
 
 ## Operating System
 ### FreeRTOS
