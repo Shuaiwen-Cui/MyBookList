@@ -3,6 +3,7 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 [m/n] stands for reading progress; each book name is attached with a link, some are free for access with a free mark.
 
+[🏆] highly recommended
 
 # Mathematics
 ## General
@@ -79,7 +80,7 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 - [Finished] [Free] [🏆] [Visualization for Machine Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning) - in Chinese, Visual ML Series 7
 
-- [1/16] [Free] [🏆] [Hello Algorithm](https://www.hello-algo.com/) - in Chinese
+- [2/16] [Free] [🏆] [Hello Algorithm](https://www.hello-algo.com/) - in Chinese
 
 - [1/23] [Free] [🏆] [Dive Into Deep Learning (En)](https://d2l.ai/)
 
