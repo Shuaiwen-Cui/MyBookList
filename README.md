@@ -75,13 +75,17 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 # Data Science and AI
 ## General
-- [Finished] [Free] [First Course in Data Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science) - in Chinese, Visual ML Series 6
+- [Finished] [Free] [🏆] [First Course in Data Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science) - in Chinese, Visual ML Series 6
 
-- [Finished] [Free] [Visualization for Machine Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning) - in Chinese, Visual ML Series 7
+- [Finished] [Free] [🏆] [Visualization for Machine Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning) - in Chinese, Visual ML Series 7
 
-- [to read] [Free] [Hello Algorithm](https://www.hello-algo.com/) - in Chinese
+- [1/16] [Free] [🏆] [Hello Algorithm](https://www.hello-algo.com/) - in Chinese
 
-- [to read] [Free] [Dive Into Deep Learning (En)](https://d2l.ai/) | [Dive Into Deep Learning (CN)](https://zh.d2l.ai/)
+- [1/23] [Free] [🏆] [Dive Into Deep Learning (En)](https://d2l.ai/)
+
+- [1/16] [Free] [🏆]  | [Dive Into Deep Learning (CN)](https://zh.d2l.ai/)
+
+- [to update] Deep Learning Specialization on Coursera
 
 ## Computer Vision
 - [1/14] [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)
