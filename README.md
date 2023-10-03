@@ -43,7 +43,7 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 - [2/8] [Free] [The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)](https://kremlin.cc/k&r.pdf)
 
 ### Python
-- [15/36] [free] [🏆] [Python For Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners) - in Chinese, Visual ML Series 1
+- [20/36] [free] [🏆] [Python For Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners) - in Chinese, Visual ML Series 1
 
 ## Operating System
 ### FreeRTOS
