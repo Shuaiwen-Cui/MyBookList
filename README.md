@@ -82,9 +82,9 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 - [7/16] [Free] [🏆] [Hello Algorithm](https://www.hello-algo.com/) - in Chinese
 
-- [2/23] [Free] [🏆] [Dive Into Deep Learning (En)](https://d2l.ai/)
+- [3/23] (1,2,18) [Free] [🏆] [Dive Into Deep Learning (En)](https://d2l.ai/)
 
-- [1/16] [Free] [🏆]  | [Dive Into Deep Learning (CN)](https://zh.d2l.ai/)
+- [2/16] [Free] [🏆]  | [Dive Into Deep Learning (CN)](https://zh.d2l.ai/)
 
 - [to update] Deep Learning Specialization on Coursera
 
