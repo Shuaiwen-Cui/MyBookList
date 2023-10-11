@@ -86,6 +86,8 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 - [2/16] [Free] [🏆]  | [Dive Into Deep Learning (CN)](https://zh.d2l.ai/)
 
+- [to read] [Free] [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+
 - [to update] Deep Learning Specialization on Coursera
 
 ## Computer Vision
