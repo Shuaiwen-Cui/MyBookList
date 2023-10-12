@@ -80,9 +80,9 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 - [Finished] [Free] [🏆] [Visualization for Machine Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning) - in Chinese, Visual ML Series 7
 
-- [10/16] [Free] [🏆] [Hello Algorithm](https://www.hello-algo.com/) - in Chinese
+- [11/16] [Free] [🏆] [Hello Algorithm](https://www.hello-algo.com/) - in Chinese
 
-- [3/23] (1,2,18) [Free] [🏆] [Dive Into Deep Learning (En)](https://d2l.ai/)
+- [4/23] (1,2,3,18) [Free] [🏆] [Dive Into Deep Learning (En)](https://d2l.ai/)
 
 - [2/16] [Free] [🏆]  | [Dive Into Deep Learning (CN)](https://zh.d2l.ai/)
 
