@@ -113,6 +113,8 @@ I am currently a PhD student at Nanyang Technological University, focusing on Ed
 
 - [2/7] [Embedded Deep Learning](https://link.springer.com/book/10.1007/978-3-319-99223-5)
 
+- [5/21] [TinyML](https://learning.oreilly.com/library/view/tinyml/9781492052036/)
+
 # Cognition
 ## Digital Signal Process
 - [2/13] [Understanding Digital Signal Processing](https://learning.oreilly.com/library/view/understanding-digital-signal/9780137028450/)
